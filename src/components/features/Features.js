@@ -11,12 +11,12 @@ const Features = () => {
       <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-2 gap-6 xl:gap-20">
         <Card
           title="Backend Development"
-          des="With over three years of experience, I specialize in backend development using technologies like C#, ASP.NET, and SQL. My work focuses on building robust, scalable APIs and microservices to power modern applications."
+          des="With nearly five years of experience, I specialize in backend development using technologies like C#, ASP.NET, and SQL. My work focuses on building robust, scalable APIs and microservices to power modern applications."
           icon={<FaDatabase />}
         />
         <Card
           title="Web Application Development"
-          des="I have developed responsive and scalable web applications using frameworks like AngularJS and ReactJS. My expertise lies in crafting intuitive user interfaces and seamless user experiences."
+          des="I have developed responsive and scalable web applications using frameworks like Angular and React. My expertise lies in crafting intuitive user interfaces and seamless user experiences."
           icon={<AiOutlineGlobal />}
         />
         <Card

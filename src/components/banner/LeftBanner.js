@@ -27,16 +27,17 @@ const LeftBanner = () => {
           />
         </h2>
         <p className="text-textColor font-bodyFont leading-6 tracking-wide">
-          As a Senior .NET Developer with over three years of experience in
+          As a Full Stack .NET Developer with nearly five years of experience in
           crafting efficient and scalable software solutions. I’m passionate
-          about solving complex problems using technologies like C#, ASP.NET,
-          SQL, and modern front-end frameworks such as AngularJS and ReactJS.{" "}
-          <br /> In my career, I’ve had the privilege of working with leading
-          organizations like Aress Software and Infosys Limited, where I’ve
-          built robust applications and contributed to cloud-based solutions.
-          Being a Microsoft Azure Certified Developer, I enjoy designing
-          microservices architectures and implementing REST APIs to create
-          seamless user experiences.
+          about solving complex problems using technologies like C#, ASP.NET
+          Core, SQL Server, and modern front-end frameworks such as Angular and
+          React.{" "}
+          <br /> In my career, I’ve worked with organizations like Synoptek,
+          Aress Software and Infosys Limited, building healthcare, SaaS and
+          telecom solutions for clients in the US and UK. As a Microsoft
+          Certified Azure Developer Associate, I enjoy designing microservices
+          architectures and implementing REST APIs to create seamless user
+          experiences.
         </p>
       </div>
       <div className="flex flex-col xl:flex-row gap-6 lgl:gap-0 justify-between">

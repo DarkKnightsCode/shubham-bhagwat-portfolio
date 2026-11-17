@@ -17,7 +17,7 @@ const Education = () => {
         <div className="mt-6 lgl:mt-14 w-full border-l-[6px] border-l-black border-opacity-30 flex flex-col gap-10">
           <ResumeCard
             title="Bachelor of Engineering in Information Technology"
-            subTitle="Savitribai Phule Pune University (2017 - 2021)"
+            subTitle="Pune Vidhyarthi Griha's College of Engineering, Nashik (Jul 2017 - Jan 2021) | CGPA: 6.85"
             des="During my studies, I developed a strong foundation in software development, algorithms, and database management. My coursework covered a range of topics including software engineering, web development, data structures, and cloud computing. I also worked on academic projects that enhanced my technical and teamwork skills."
           />
 

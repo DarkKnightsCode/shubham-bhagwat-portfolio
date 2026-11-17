@@ -10,7 +10,7 @@ const FooterBottom = () => {
         >
           shubhambhagwat453@gmail.com
         </a>{" "}
-        | © 2024. All rights reserved by Shubham Bhagwat | +91 9011303974
+        | © {new Date().getFullYear()}. All rights reserved by Shubham Bhagwat | +91 9011303974
       </p>
     </div>
   );
